@@ -31,3 +31,32 @@
 -React | Node.js | Express | SQLite | PostgreSQL
 -Nunjucks | Bulma | Bootstrap | Tailwind
 -Jest | Cypress | Git | GitHub | Vercel
+
+---
+
+## 📁 FEATURED_PROJECTS
+
+- [`🔗 Pokedex Modular App`](https://github.com/lorenzo-dev/pokedex)
+- [`🔗 Football Teams CRUD`](https://github.com/lorenzo-dev/football-crud)
+- [`🔗 Car Rental Service`](https://github.com/lorenzo-dev/car-rental-app)
+- [`🔗 Currency Converter`](https://github.com/lorenzo-dev/currency-converter)
+
+---
+
+## 🧠 THE_MATRIX_HAS_YOU
+
+> “There’s a difference between knowing the path and walking the path.”  
+> — *Morpheus*
+
+> I believe in code that’s readable, testable and elegant.  
+> I’m not just learning frameworks, I’m learning how to think like an engineer.  
+> Projects are more than code — they’re portals to ideas.
+
+---
+
+## 📡 CONTACT
+
+- 📧 lorenzo@email.com  
+- 🌐 [Portfolio (coming soon)](https://your-portfolio-link.com)  
+- 🐙 [GitHub](https://github.com/lorenzo-dev)
+
