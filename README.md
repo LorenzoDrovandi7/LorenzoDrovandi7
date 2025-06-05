@@ -4,6 +4,7 @@
     <img src="https://kulturio.cz/wp-content/uploads/2019/04/Matrix-uvodni.jpg">
 </div>
 <br>
+
 ***About me***
 
 Full-stack developer with a talent for creating seamless digital experiences. I transform ideas into dynamic, easy-to-use web applications. I love combining creativity and code to deliver solutions that not only work, but also achieve goals in the most effective way possible.
@@ -15,6 +16,7 @@ I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I de
 <br>
 
 ***Skills***
+
 <br>
 
 ###### Languages & Syntax:
