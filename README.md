@@ -1,5 +1,11 @@
 <h1><b>Hi there, I'm </b>Lorenzo!</h1>
 <br>
+<br>
+<div align="center">
+    <img src="https://kulturio.cz/wp-content/uploads/2019/04/Matrix-uvodni.jpg">
+</div>
+<br>
+<br>
 
 ***About me***
 
@@ -10,13 +16,6 @@ I believe programming is a way to improve people's lives, and the aspiration to 
 I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I developed a strong interest in computers, creating Pokémon hackroms and Renpy games.
 
 <br>
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=LorenzoDrovandi7&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>
-
 <br>
 
 ***Skills***
