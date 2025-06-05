@@ -5,7 +5,8 @@
 </div>
 <br>
 
-***About me***
+<h3>About me</h3>
+<br>
 
 Full-stack developer with a talent for creating seamless digital experiences. I transform ideas into dynamic, easy-to-use web applications. I love combining creativity and code to deliver solutions that not only work, but also achieve goals in the most effective way possible.
 
@@ -14,9 +15,7 @@ I believe programming is a way to improve people's lives, and the aspiration to 
 I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I developed a strong interest in computers, creating Pokémon hackroms and Renpy games.
 
 <br>
-
-***Skills***
-
+<h3>Skills</h3>
 <br>
 
 ###### Languages & Syntax:
@@ -57,7 +56,7 @@ I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I de
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <br>
 <br>
-***Github Stats***
+<h3>Github stats</h3>
 <br>
 <p align="center">
 <table align="center">
