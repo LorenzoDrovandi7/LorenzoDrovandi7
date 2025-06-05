@@ -14,15 +14,6 @@
 
 ---
 
-## 🧭 CURRENT_MISSION
-
-- 🌱 Learning React + TypeScript  
-- 🔧 Refactoring old projects with SOLID principles  
-- ⚙️ Building clean, modular, scalable code  
-- 📚 Always in learning mode
-
----
-
 ## 🛠️ TOOLKIT
 
 **Languages & Tools**
