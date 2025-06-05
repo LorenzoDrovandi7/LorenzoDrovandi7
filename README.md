@@ -1,12 +1,9 @@
 <h1><b>Hi there, I'm </b>Lorenzo!</h1>
 <br>
-<br>
 <div align="center">
     <img src="https://kulturio.cz/wp-content/uploads/2019/04/Matrix-uvodni.jpg">
 </div>
 <br>
-<br>
-
 ***About me***
 
 Full-stack developer with a talent for creating seamless digital experiences. I transform ideas into dynamic, easy-to-use web applications. I love combining creativity and code to deliver solutions that not only work, but also achieve goals in the most effective way possible.
@@ -15,7 +12,6 @@ I believe programming is a way to improve people's lives, and the aspiration to 
 
 I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I developed a strong interest in computers, creating Pokémon hackroms and Renpy games.
 
-<br>
 <br>
 
 ***Skills***
