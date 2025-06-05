@@ -1,16 +1,33 @@
-## Hi there 👋
+# Welcome to Lorenzo's digital space...
 
-<!--
-**LorenzoDrovandi7/LorenzoDrovandi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/code-darkgreen?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/fullstack-dev-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/react%20+%20ts-in%20progress-darkgreen?style=for-the-badge&logo=react" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 WHOAMI
+
+`I'm Lorenzo — Full Stack Developer. I enjoy building things that live on the web.`
+
+---
+
+## 🧭 CURRENT_MISSION
+
+- 🌱 Learning React + TypeScript  
+- 🔧 Refactoring old projects with SOLID principles  
+- ⚙️ Building clean, modular, scalable code  
+- 📚 Always in learning mode
+
+---
+
+## 🛠️ TOOLKIT
+
+**Languages & Tools**
+
+-HTML | CSS | JavaScript | TypeScript
+-React | Node.js | Express | SQLite | PostgreSQL
+-Nunjucks | Bulma | Bootstrap | Tailwind
+-Jest | Cypress | Git | GitHub | Vercel
