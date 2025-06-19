@@ -1,10 +1,4 @@
 <h1><b>Hi there, I'm </b>Lorenzo!</h1>
-<br>
-<div align="center">
-    <img src="https://kulturio.cz/wp-content/uploads/2019/04/Matrix-uvodni.jpg">
-</div>
-<br>
-
 <h3>About me</h3>
 <br>
 
@@ -14,9 +8,7 @@ I believe programming is a way to improve people's lives, and the aspiration to 
 
 I was born in Córdoba, Argentina, on July 17, 2003. From a very young age, I developed a strong interest in computers, creating Pokémon hackroms and Renpy games.
 
-<br>
 <h3>Skills</h3>
-<br>
 
 ###### Languages & Syntax:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)&nbsp;
